@@ -1,6 +1,6 @@
 ## A collection of Textures Unlimited Recolour Depot recolours for the parts from Near Future Spacecraft
 
-![wow look at them all](TU_NFS_image.png)
+![wow look at them all](https://i.imgur.com/6QdLvnA.png)
 
 # Dependencies:
 - [Textures Unlimited](https://forum.kerbalspaceprogram.com/topic/167450-19x-textures-unlimited-pbr-shader-texture-set-and-model-loading-api/)
