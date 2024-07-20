@@ -9,7 +9,7 @@
 
 # To Install:
 - Download and unzip the files
-- Put the TU_NearFutureSpacecraft folder inside gamedata
+- Put the TU_NearFutureSpacecraft folder into your gamedata folder
 
 # License:
 CC BY-NC-SA 4.0
