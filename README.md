@@ -1,4 +1,4 @@
-## Textures Unlimited recolours for from Near Future Spacecraft
+## Textures Unlimited recolours for Near Future Spacecraft
 
 ![wow look at them all](https://github.com/ZZetho/pics/blob/main/nfs%20promo.png?raw=true)
 
