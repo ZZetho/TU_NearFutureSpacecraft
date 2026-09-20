@@ -1,6 +1,6 @@
 ## Textures Unlimited recolours for from Near Future Spacecraft
 
-![wow look at them all](https://i.imgur.com/6QdLvnA.png)
+![wow look at them all](https://github.com/ZZetho/pics/blob/main/nfs%20promo.png?raw=true)
 
 # Dependencies:
 - [Module manager](https://forum.kerbalspaceprogram.com/topic/50533-18x-112x-module-manager-423-july-03th-2023-fireworks-season/)
